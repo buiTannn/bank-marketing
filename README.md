@@ -82,5 +82,3 @@ This project aims to help financial institutions:
 
        0       0.97      0.89      0.93      3668
        1       0.48      0.80      0.60       451
-
-accuracy                           0.88      4119
